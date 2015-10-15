@@ -4,7 +4,7 @@
 #include "stdafx.h"
 #include <iostream>
 #include <string>
-
+//
 const int arrayMaxSize = 10;
 void arrayFiller(int numArray[]);
 void arrayPrinter(int printArray[]);
